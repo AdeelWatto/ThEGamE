@@ -64,7 +64,7 @@ logo = """
 \033[0;39m
 \033[0;39m
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|ADEEL X3 MAARIJ\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|ITXX TH3 GAM3\033[0;31m║
 \033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/ThEGam3\033[0m \033[0;31m║
 \033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m0308-7861-7861\033[0;31m║
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
@@ -88,11 +88,11 @@ os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
 print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM u ALIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : +92112233445566778899\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : TERMUX TOOLS\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mTOOLS BY ADEEL X3 MAARIJ\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : ADEEL CREATIONSs\x1b[0;31m"""
+\033[1;93m [¤] \x1b[0;31mTOOLS BY ADEEL AFZAL WATTO\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : ADEEL CREATIONSs\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
 CorrectUsername = "adeel"
-CorrectPassword = "maarij"
+CorrectPassword = "adeel"
 
 loop = 'true'
 while (loop == 'true'):
